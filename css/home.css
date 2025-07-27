@@ -22,7 +22,7 @@
     flex-direction: column;
     gap: 16px;
     padding: 16px;
-    width: 50%;
+    width: 67%;
 }
 #home-div-2 > div {
     display: flex;
@@ -53,6 +53,7 @@
 #home-div-2 > div > div > img {
     align-self: center;
     border-radius: 8px;
+    max-width: 360px;
     width: 100%;
 }
 #home-div-2 > div > div > a {
@@ -109,9 +110,11 @@
     gap: 16px;
 }
 #home-div-1 > div > div > div > a {
+    align-items: center;
     border: solid var(--tertiary-color) 2px;
     border-radius: 8px;
     cursor: pointer;
+    display: flex;
     padding: 16px;
     text-decoration: none;
 }
@@ -153,7 +156,7 @@
         align-items: center;
         width: 100%;
     }
-    #home-div-1 > div > div > h1, #home-div-1 > div > div > p {
+    #home-div-1 > div > div > h1, #home-div-1 > div > div > h3, #home-div-1 > div > div > p {
         text-align: center;
     }
     #home-div-1 > div > div > div {
