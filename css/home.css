@@ -109,7 +109,7 @@
     display: flex;
     gap: 16px;
 }
-#home-div-1 > div > div > div > a {
+#home-div-1 > div > div > div > a, #home-div-1 > div > div > div > div {
     align-items: center;
     border: solid var(--tertiary-color) 2px;
     border-radius: 8px;
@@ -118,7 +118,7 @@
     padding: 16px;
     text-decoration: none;
 }
-#home-div-1 > div > div > div > a:first-child {
+#home-div-1 > div > div > div > a {
     background-color: var(--tertiary-color);
     border: solid var(--tertiary-color) 2px;
     border-radius: 8px;
@@ -127,7 +127,7 @@
     padding: 16px;
     text-decoration: none;
 }
-#home-div-1 > div > div > div > a:hover {
+#home-div-1 > div > div > div > a:hover, #home-div-1 > div > div > div > div:hover {
     background-color: var(--quaternary-color);
     border: solid var(--quaternary-color) 2px;
     color: white;
