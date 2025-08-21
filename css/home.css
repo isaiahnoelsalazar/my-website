@@ -116,6 +116,7 @@
     cursor: pointer;
     display: flex;
     padding: 16px;
+    text-align: center;
     text-decoration: none;
 }
 #home-div-1 > div > div > div > a {
