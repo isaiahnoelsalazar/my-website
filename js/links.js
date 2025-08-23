@@ -61,18 +61,18 @@ let categories = [
     "Android Dependencies", android_dependencies,
     "NuGet Packages", nuget_packages
 ];
-let pages_div = document.getElementById("pages-div-1");
+let my_works_div = document.getElementById("my-works-div-1");
 let switcher = false;
 categories.forEach(category => {
     if (!switcher){
         let h2 = document.createElement("h2");
         h2.textContent = category;
-        pages_div.appendChild(h2);
+        my_works_div.appendChild(h2);
         switcher = true;
     } else {
         let switcher1 = false;
         let div = document.createElement("div");
-        div.classList.add("page-list");
+        div.classList.add("link-list");
         let a = document.createElement("a");
         category.forEach(item => {
             if (!switcher1){
@@ -85,7 +85,7 @@ categories.forEach(category => {
                 switcher1 = false;
             }
         });
-        pages_div.appendChild(div);
+        my_works_div.appendChild(div);
         if (categories.indexOf(category) === categories.length - 1){
             return;
         }
