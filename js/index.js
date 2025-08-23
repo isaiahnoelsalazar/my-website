@@ -1,7 +1,7 @@
 const script = document.createElement("script");
 script.type = "speculationrules";
 const speculationRules = {
-    prerender: [
+    prefetch: [
         {
             urls: [
                 "https://isaiahnoelsalazar.github.io/bad-phone-number-inputs/",
