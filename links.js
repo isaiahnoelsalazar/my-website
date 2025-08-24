@@ -63,13 +63,15 @@ let categories = [
 ];
 let my_works_div = document.getElementById("my-works-div-1");
 let switcher = false;
+let h2 = document.createElement("h2");
 categories.forEach(category => {
     if (!switcher){
-        let h2 = document.createElement("h2");
         h2.textContent = category;
-        my_works_div.appendChild(h2);
         switcher = true;
     } else {
+        h2.textContent += ` (${category.length / 2})`;
+        my_works_div.appendChild(h2);
+        h2 = document.createElement("h2");
         let switcher1 = false;
         let div = document.createElement("div");
         div.classList.add("link-list");
