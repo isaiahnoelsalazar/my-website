@@ -36,9 +36,11 @@ let android_applications = [
     "https://github.com/isaiahnoelsalazar/Ulap/", "Ulap (Android 7.0+)"
 ];
 let csharp_programs = [
+    "https://github.com/isaiahnoelsalazar/AutoClicker/", "AutoClicker",
     "https://github.com/isaiahnoelsalazar/AUTOLANDIA-Sales-and-Revenue-Report-Generation-System/", "AUTOLANDIA Sales and Revenue Report Generation System | Capstone Project",
     "https://github.com/isaiahnoelsalazar/ScreenRecorder/", "Screen Recorder",
-    "https://github.com/isaiahnoelsalazar/POS-System-Prototype/", "POS System Prototype"
+    "https://github.com/isaiahnoelsalazar/POS-System-Prototype/", "POS System Prototype",
+    "https://github.com/isaiahnoelsalazar/WebBrowser/", "Web Browser"
 ];
 let python_programs = [
     "https://github.com/isaiahnoelsalazar/SamplePythonTurtleKeyInput/", "Sample Python Turtle - Key Input | School Work",
