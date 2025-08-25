@@ -26,6 +26,7 @@ let android_applications = [
     "https://isaiahnoelsalazar.github.io/matchupgame-download/", "Match Up Game (Android 7.0+) | School Work",
     "https://github.com/isaiahnoelsalazar/Monay/", "Monay (Android 7.0+) | School Work",
     "https://isaiahnoelsalazar.github.io/note-download/", "Note (Android 4.1+)",
+    "https://github.com/isaiahnoelsalazar/PacmanAndroid/", "PacmanAndroid (Android 4.4+)",
     "https://github.com/isaiahnoelsalazar/saia_ProjectA/", "saia_ProjectA (Android 6.0+)",
     "https://github.com/isaiahnoelsalazar/sAP/", "sAP (Android 6.0+)",
     "https://isaiahnoelsalazar.github.io/shoppinglist-download/", "Shopping List App (Android 7.0+)",

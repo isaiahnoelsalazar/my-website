@@ -29,6 +29,7 @@ const speculationRules = {
                 "https://isaiahnoelsalazar.github.io/matchupgame-download/",
                 "https://github.com/isaiahnoelsalazar/Monay/",
                 "https://isaiahnoelsalazar.github.io/note-download/",
+                "https://github.com/isaiahnoelsalazar/PacmanAndroid/",
                 "https://github.com/isaiahnoelsalazar/saia_ProjectA/",
                 "https://github.com/isaiahnoelsalazar/sAP/",
                 "https://isaiahnoelsalazar.github.io/shoppinglist-download/",
