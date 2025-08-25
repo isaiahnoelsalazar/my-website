@@ -30,6 +30,7 @@ const speculationRules = {
                 "https://github.com/isaiahnoelsalazar/Monay/",
                 "https://isaiahnoelsalazar.github.io/note-download/",
                 "https://github.com/isaiahnoelsalazar/PacmanAndroid/",
+                "https://isaiahnoelsalazar.github.io/qr-generator-download/",
                 "https://github.com/isaiahnoelsalazar/saia_ProjectA/",
                 "https://github.com/isaiahnoelsalazar/sAP/",
                 "https://isaiahnoelsalazar.github.io/shoppinglist-download/",
