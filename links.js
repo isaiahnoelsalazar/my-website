@@ -12,6 +12,7 @@ let live_websites = [
     "https://isaiahnoelsalazar.github.io/personal-webpage/", "Personal Webpage | School Work",
     "https://isaiahnoelsalazar.github.io/pdf-to-doc/", "PDF to DOC",
     "https://isaiahnoelsalazar.github.io/simple-web-calculator/", "Simple Web Calculator",
+    "https://isaiahnoelsalazar.github.io/my-website_old/", "This website's old version",
     "https://isaiahnoelsalazar.github.io/typey/", "Typey",
     "https://isaiahnoelsalazar.github.io/webbook/", "WebBook",
     "https://isaiahnoelsalazar.github.io/website-observation-1/", "Website Observation 1 | School Work",
@@ -19,6 +20,7 @@ let live_websites = [
 ];
 let android_applications = [
     "https://isaiahnoelsalazar.github.io/basabasa-download/", "Basabasa: Free Manga Reader App (Android 7.1+)",
+    "https://github.com/isaiahnoelsalazar/Basalt/", "Basalt (Android 7.1+)",
     "https://isaiahnoelsalazar.github.io/billcalculator-download/", "Bill Calculator (Android 4.1+)",
     "https://github.com/isaiahnoelsalazar/BusSeatingArrangementExample/", "BusSeatingArrangementExample (Android 4.1+)",
     "https://isaiahnoelsalazar.github.io/compass-download/", "Compass (Android 4.2+)",
@@ -51,7 +53,10 @@ let unity_games = [
     "https://github.com/isaiahnoelsalazar/SalazarIsaiahNoel_BSIT701P_Lab2/", "SalazarIsaiahNoel_BSIT701P_Lab2 | School Work"
 ];
 let android_dependencies = [
-    "https://github.com/isaiahnoelsalazar/SimpleFunctions/", "SimpleFunctions (Android 7.1+)"
+    "https://github.com/isaiahnoelsalazar/Almond/", "Almond (Android 4.1+)",
+    "https://github.com/isaiahnoelsalazar/Bread/", "Bread (Android 4.1+)",
+    "https://github.com/isaiahnoelsalazar/Cod/", "Cod (Android 7.0+)",
+    "https://github.com/isaiahnoelsalazar/SimpleFunctions/", "SimpleFunctions (Android 7.0+)"
 ];
 let nuget_packages = [
     "https://github.com/isaiahnoelsalazar/CSSimpleFunctions/", "CSSimpleFunctions (.NET 6.0+ | .NET Framework 4.5+)"
