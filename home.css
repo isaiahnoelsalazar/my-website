@@ -2,7 +2,8 @@
     align-items: center;
     display: flex;
     flex-direction: column;
-    padding: 16px 0;
+}
+.home > div {
     width: 100%;
 }
 #home-div-1 {
@@ -10,162 +11,155 @@
     display: flex;
     gap: 16px;
     justify-content: space-evenly;
-    margin: 0 0 16px 0;
-    max-width: 1000px;
-    padding: 16px 0;
-    width: calc(100% - 32px);
+    max-width: 720px;
+    padding: 0 16px;
 }
 #home-div-2 {
     background-color: var(--secondary-color);
-    border-radius: 8px;
+    border-radius: 16px;
     display: flex;
     flex-direction: column;
     gap: 16px;
+    max-width: 720px;
     padding: 16px;
-    width: 67%;
 }
-#home-div-2 > div {
-    display: flex;
-    gap: 16px;
-}
-#home-div-2 > div:nth-child(5) {
-    flex-direction: row-reverse;
-}
-#home-div-2 > div > div {
-    align-items: start;
+#home-div-3 {
     display: flex;
     flex-direction: column;
-    width: 50%;
-}
-#home-div-2 > div > h2, #home-div-2 > div > p {
-    text-align: center;
-    width: 100%;
-}
-#home-div-2 > div > div > h2, #home-div-2 > div > div > p {
-    hyphens: auto;
-    margin: 0;
-    overflow-wrap: break-word;
-    padding: 16px 16px 0 16px;
-    width: 100%;
-    -ms-hyphens: auto;
-    -moz-hyphens: auto;
-}
-#home-div-2 > div > div > img {
-    align-self: center;
-    border-radius: 8px;
-    max-width: 360px;
-    width: 100%;
-}
-#home-div-2 > div > div > a {
-    background-color: var(--tertiary-color);
-    border: solid var(--tertiary-color) 2px;
-    border-radius: 8px;
-    color: white;
-    cursor: pointer;
-    margin: 16px;
-    padding: 12px 16px;
-    text-decoration: none;
-}
-#home-div-2 > div > div > a:hover {
-    background-color: var(--quaternary-color);
-    border: solid var(--quaternary-color) 2px;
-    color: white;
-}
-#separator {
-    background-color: var(--dark-secondary-color);
-    border-radius: 8px;
-    height: 2px;
-    width: 100%;
-}
-#spacer {
-    background-color: var(--primary-color);
-    border-radius: 8px;
-    display: flex;
-    height: 2px;
-    padding: 8px 0;
-    width: 100%;
+    gap: 16px;
+    max-width: 720px;
+    padding: 16px;
 }
 #home-div-1 > div {
     display: flex;
     flex-direction: column;
+    gap: 16px;
+    padding: 16px 0;
 }
-#home-div-1 > div:first-child {
-    align-items: center;
-    width: 67%;
+#home-div-2 > div {
+    display: flex;
 }
-#home-div-1 > div:last-child {
-    align-items: start;
-    width: 33%;
+#home-div-3 > div {
+    display: flex;
+    flex-direction: column;
+}
+#home-div-1 > div > *, #home-div-2 > div > h2, #home-div-3 > div > * {
+    margin: 0;
+    width: 100%;
+}
+#home-div-1 > div > h1, #home-div-1 > div > h2, #home-div-1 > div > p, #home-div-2 > div > h2, #home-div-2 > div > div > h2, #home-div-2 > div > div > p {
+    hyphens: auto;
+    margin: 0;
+    overflow-wrap: break-word;
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
 }
 #home-div-1 > div > img {
     border-radius: 50%;
-    max-width: 360px;
-    width: 100%;
+    width: 240px;
 }
-#home-div-1 > div > div > h1 {
-    margin: 0;
-}
-#home-div-1 > div > div > div {
+#home-div-1 > div > div {
     display: flex;
     gap: 16px;
 }
-#home-div-1 > div > div > div > a, #home-div-1 > div > div > div > div {
+#home-div-1 > div > div > a, #home-div-1 > div > div > div {
     align-items: center;
     border: solid var(--tertiary-color) 2px;
     border-radius: 8px;
     cursor: pointer;
     display: flex;
-    padding: 16px;
+    padding: 12px 16px;
     text-align: center;
     text-decoration: none;
 }
-#home-div-1 > div > div > div > a {
+#home-div-1 > div > div > a, #home-div-2 > div > div > a {
     background-color: var(--tertiary-color);
     border: solid var(--tertiary-color) 2px;
     border-radius: 8px;
     color: white;
     cursor: pointer;
-    padding: 16px;
+    padding: 12px 16px;
     text-decoration: none;
 }
-#home-div-1 > div > div > div > a:hover, #home-div-1 > div > div > div > div:hover {
+#home-div-1 > div > div > a:hover, #home-div-1 > div > div > div:hover, #home-div-2 > div > div > a:hover {
     background-color: var(--quaternary-color);
     border: solid var(--quaternary-color) 2px;
     color: white;
 }
-@media (max-width: 752px) {
-    #home-div-2 {
-        width: calc(100% - 32px);
-    }
-    #home-div-2 > div > div {
-        align-items: stretch;
-        justify-content: center;
-    }
-    #home-div-2 > div > div > a {
-        text-align: center;
-    }
+#home-div-2 > div > h2, #home-div-3 > div > h2 {
+    padding: 16px;
+    text-align: center;
+}
+#home-div-2 > div > div {
+    align-items: start;
+    justify-content: center;
+    display: flex;
+}
+#home-div-2 > div > div:last-child {
+    flex-direction: column;
+    gap: 8px;
+    padding: 0 16px;
+}
+#home-div-2 > div > div > img {
+    align-self: center;
+    border-radius: 12px;
+    width: 150px;
+}
+.activity {
+    background-color: var(--secondary-color);
+    border-radius: 16px;
+    padding: 16px;
+}
+.activity > h2 {
+    background-color: var(--dark-secondary-color);
+    border-radius: 12px;
+}
+.images-container {
+    display: grid;
+    gap: 16px;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    padding-top: 16px;
+}
+.images-container > div {
+    align-items: center;
+    background-color: var(--dark-secondary-color);
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 16px;
+    width: 100%;
+}
+.images-container > div > img {
+    border-radius: 12px;
+    width: 100%;
+}
+.images-container > div > p {
+    margin: 16px 0 0 0;
+    text-align: center;
+    width: 100%;
 }
 @media (max-width: 752px) {
+    .home > div {
+        width: calc(100% - 32px);
+    }
+    .home > div:last-child {
+        width: 100%;
+    }
     #home-div-1 {
         flex-direction: column-reverse;
+        gap: 0;
+        padding: 16px 0;
     }
-    #home-div-1 > div:first-child {
+    #home-div-1 > div > img {
+        max-width: 360px;
+        width: calc(100% - 32px);
+    }
+    #home-div-1 > div {
         align-items: center;
-        width: 100%;
-    }
-    #home-div-1 > div:last-child {
-        align-items: center;
-        width: 100%;
-    }
-    #home-div-1 > div > div > h1, #home-div-1 > div > div > h2, #home-div-1 > div > div > p {
         text-align: center;
     }
-    #home-div-1 > div > div > div {
+    #home-div-1 > div > div {
         justify-content: center;
-    }
-}
-@media (max-width: 392px) {
-    #home-div-1 > div > img {
-        width: calc(100% - 32px);
     }
 }

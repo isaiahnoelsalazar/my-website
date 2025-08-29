@@ -103,8 +103,8 @@ categories.forEach(category => {
         }
         let spacer = document.createElement("div");
         let separator = document.createElement("div");
-        spacer.id = "spacer";
-        separator.id = "separator";
+        spacer.classList.add("spacer");
+        separator.classList.add("separator");
         div.appendChild(spacer);
         div.appendChild(separator);
         div.appendChild(spacer.cloneNode());

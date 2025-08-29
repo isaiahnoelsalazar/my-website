@@ -5,12 +5,10 @@
 }
 html {
     background-color: var(--primary-color);
-    height: 100%;
     -webkit-tap-highlight-color: transparent;
 }
 body {
     background-color: var(--primary-color);
-    height: 100%;
     margin: 0;
 }
 #navbar {
@@ -57,12 +55,10 @@ body {
 #main {
     display: flex;
     flex-direction: column;
-    height: calc(100% - 56px);
 }
 .content {
     background-color: var(--primary-color);
     display: none;
-    height: 100%;
 }
 .footer {
     background-color: var(--black);
@@ -76,23 +72,17 @@ body {
     justify-content: center;
     margin: 0;
 }
-.pages-footer, .contacts-footer {
-    background-color: var(--black);
-    bottom: 0;
-    position: fixed;
+.separator {
+    background-color: var(--dark-secondary-color);
+    border-radius: 8px;
+    height: 2px;
     width: 100%;
 }
-.pages-footer > p, .contacts-footer > p {
-    align-items: center;
-    color: white;
+.spacer {
+    background-color: var(--primary-color);
+    border-radius: 8px;
     display: flex;
-    height: 56px;
-    justify-content: center;
-    margin: 0;
-}
-@media (max-width: 800px) {
-    .pages-footer {
-        bottom: unset;
-        position: unset;
-    }
+    height: 2px;
+    padding: 8px 0;
+    width: 100%;
 }
