@@ -53,6 +53,7 @@ let python_programs = [
     "https://github.com/isaiahnoelsalazar/SamplePythonTurtleYellowDucky/", "Sample Python Turtle - Yellow Ducky | School Work"
 ];
 let unity_games = [
+    "https://isaiahnoelsalazar.github.io/dice-download/", "Dice",
     "https://github.com/isaiahnoelsalazar/SalazarIsaiahNoel_BSIT701P_Lab2/", "SalazarIsaiahNoel_BSIT701P_Lab2 | School Work"
 ];
 let android_dependencies = [

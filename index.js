@@ -50,6 +50,7 @@ const speculationRules = {
                 "https://github.com/isaiahnoelsalazar/WebBrowser/",
                 "https://github.com/isaiahnoelsalazar/SamplePythonTurtleKeyInput/",
                 "https://github.com/isaiahnoelsalazar/SamplePythonTurtleYellowDucky/",
+                "https://isaiahnoelsalazar.github.io/dice-download/",
                 "https://github.com/isaiahnoelsalazar/SalazarIsaiahNoel_BSIT701P_Lab2/",
                 "https://github.com/isaiahnoelsalazar/Almond/",
                 "https://github.com/isaiahnoelsalazar/Bread/",
