@@ -11,6 +11,7 @@ let live_websites = [
     "https://isaiahnoelsalazar.github.io/thml/", "My old HTML practice website",
     "https://isaiahnoelsalazar.github.io/personal-webpage/", "Personal Webpage | School Work",
     "https://isaiahnoelsalazar.github.io/pdf-to-doc/", "PDF to DOC",
+    "https://isaiahnoelsalazar.github.io/qr-generator/", "QR Generator",
     "https://isaiahnoelsalazar.github.io/simple-web-calculator/", "Simple Web Calculator",
     "https://isaiahnoelsalazar.github.io/my-website_old/", "This website's old version",
     "https://isaiahnoelsalazar.github.io/typey/", "Typey",

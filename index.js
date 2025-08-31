@@ -16,6 +16,7 @@ const speculationRules = {
                 "https://isaiahnoelsalazar.github.io/thml/",
                 "https://isaiahnoelsalazar.github.io/personal-webpage/",
                 "https://isaiahnoelsalazar.github.io/pdf-to-doc/",
+                "https://isaiahnoelsalazar.github.io/qr-generator/",
                 "https://isaiahnoelsalazar.github.io/simple-web-calculator/",
                 "https://isaiahnoelsalazar.github.io/my-website_old/",
                 "https://isaiahnoelsalazar.github.io/typey/",
