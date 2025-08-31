@@ -27,6 +27,7 @@ const speculationRules = {
                 "https://github.com/isaiahnoelsalazar/Basalt/",
                 "https://isaiahnoelsalazar.github.io/billcalculator-download/",
                 "https://github.com/isaiahnoelsalazar/BusSeatingArrangementExample/",
+                "https://github.com/isaiahnoelsalazar/CaptainsCupPOS/",
                 "https://isaiahnoelsalazar.github.io/compass-download/",
                 "https://isaiahnoelsalazar.github.io/htmleditor-download/",
                 "https://isaiahnoelsalazar.github.io/matchupgame-download/",

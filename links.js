@@ -24,6 +24,7 @@ let android_applications = [
     "https://github.com/isaiahnoelsalazar/Basalt/", "Basalt (Android 7.1+)",
     "https://isaiahnoelsalazar.github.io/billcalculator-download/", "Bill Calculator (Android 4.1+)",
     "https://github.com/isaiahnoelsalazar/BusSeatingArrangementExample/", "BusSeatingArrangementExample (Android 4.1+)",
+    "https://github.com/isaiahnoelsalazar/CaptainsCupPOS/", "Captain's Cup POS (Android 7.0+)",
     "https://isaiahnoelsalazar.github.io/compass-download/", "Compass (Android 4.2+)",
     "https://isaiahnoelsalazar.github.io/htmleditor-download/", "HTML Editor (Android 4.2+)",
     "https://isaiahnoelsalazar.github.io/matchupgame-download/", "Match Up Game (Android 7.0+) | School Work",
