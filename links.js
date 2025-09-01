@@ -54,6 +54,7 @@ let python_programs = [
 ];
 let unity_games = [
     "https://isaiahnoelsalazar.github.io/dice-download/", "Dice",
+    "https://isaiahnoelsalazar.github.io/multiple-dice-download/", "Multiple Dice",
     "https://github.com/isaiahnoelsalazar/SalazarIsaiahNoel_BSIT701P_Lab2/", "SalazarIsaiahNoel_BSIT701P_Lab2 | School Work"
 ];
 let android_dependencies = [
