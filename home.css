@@ -163,4 +163,7 @@
     #home-div-1 > div > div {
         justify-content: center;
     }
+    #home-div-2 > div > div > img {
+        width: 100px;
+    }
 }
