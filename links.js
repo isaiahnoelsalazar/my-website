@@ -10,6 +10,7 @@ let live_websites = [
     ["http://openweb.fwh.is/", "Live PHP Pages", "A collection of live PHP pages."],
     ["https://isaiahnoelsalazar.github.io/multiplication-table/", "Multiplication Table | School Work", "An assignment webpage for a multiplication table."],
     ["https://isaiahnoelsalazar.github.io/thml/", "My old HTML practice website", "A webpage showcasing my old HTML practice website."],
+    ["https://isaiahnoelsalazar.github.io/web-otp/", "Web OTP", "Web-based OTP Authenticator."],
     ["https://isaiahnoelsalazar.github.io/personal-webpage/", "Personal Webpage | School Work", "An assignment webpage of a sample portfolio website."],
     ["https://isaiahnoelsalazar.github.io/pdf-to-doc/", "PDF to DOC", "Convert your PDF files to DOC files."],
     ["https://isaiahnoelsalazar.github.io/qr-generator/", "QR Generator", "A webpage that generates QR codes."],

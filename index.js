@@ -15,6 +15,7 @@ const speculationRules = {
                 "http://openweb.fwh.is/",
                 "https://isaiahnoelsalazar.github.io/multiplication-table/",
                 "https://isaiahnoelsalazar.github.io/thml/",
+                "https://isaiahnoelsalazar.github.io/web-otp/",
                 "https://isaiahnoelsalazar.github.io/personal-webpage/",
                 "https://isaiahnoelsalazar.github.io/pdf-to-doc/",
                 "https://isaiahnoelsalazar.github.io/qr-generator/",
