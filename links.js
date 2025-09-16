@@ -10,7 +10,6 @@ let live_websites = [
     ["http://openweb.fwh.is/", "Live PHP Pages", "A collection of live PHP pages."],
     ["https://isaiahnoelsalazar.github.io/multiplication-table/", "Multiplication Table | School Work", "An assignment webpage for a multiplication table."],
     ["https://isaiahnoelsalazar.github.io/thml/", "My old HTML practice website", "A webpage showcasing my old HTML practice website."],
-    ["https://isaiahnoelsalazar.github.io/web-otp/", "Web OTP", "Web-based OTP Authenticator."],
     ["https://isaiahnoelsalazar.github.io/personal-webpage/", "Personal Webpage | School Work", "An assignment webpage of a sample portfolio website."],
     ["https://isaiahnoelsalazar.github.io/pdf-to-doc/", "PDF to DOC", "Convert your PDF files to DOC files."],
     ["https://isaiahnoelsalazar.github.io/qr-generator/", "QR Generator", "A webpage that generates QR codes."],
@@ -19,6 +18,7 @@ let live_websites = [
     ["https://isaiahnoelsalazar.github.io/my-website_old/", "This website's old version", "An old archived version of this website."],
     ["https://isaiahnoelsalazar.github.io/typey/", "Typey", "A simple typing practice website."],
     ["https://isaiahnoelsalazar.github.io/webbook/", "WebBook", "A Facebook clone."],
+    ["https://isaiahnoelsalazar.github.io/web-otp/", "Web OTP", "Web-based OTP Authenticator."],
     ["https://isaiahnoelsalazar.github.io/website-observation-1/", "Website Observation 1 | School Work", "An assignment webpage of an analysis of the website \"www.arngren.net\"."],
     ["https://isaiahnoelsalazar.github.io/women-with-baskets/", "Women with Baskets | School Work", "An assignment webpage showcasing the famous artwork of Anita Magsaysay-Ho, \"Women with Baskets\"."]
 ];
