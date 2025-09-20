@@ -69,6 +69,9 @@
 .link-list > a:last-child {
     border-radius: 8px 8px 16px 16px;
 }
+.link-list > a:only-child {
+    border-radius: 16px;
+}
 .title-container {
     border-radius: 16px;
     width: 100%;
