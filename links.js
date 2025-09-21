@@ -27,7 +27,7 @@ let android_applications = [
     ["https://github.com/isaiahnoelsalazar/Basalt/", "Basalt (Android 7.1+)", "Simple manga reader using MangaDex API"],
     ["https://isaiahnoelsalazar.github.io/billcalculator-download/", "Bill Calculator (Android 4.1+)", "A bill/tip calculator application for Android 4.1+"],
     ["https://github.com/isaiahnoelsalazar/BusSeatingArrangementExample/", "BusSeatingArrangementExample (Android 4.1+)", "Sample Android app for bus seating arrangement/reservation."],
-    ["https://github.com/isaiahnoelsalazar/CaptainsCupPOS/", "Captain's Cup POS (Android 7.0+)", "A point-of-sale application for Captain's Cup.", ["http://openweb.fwh.is/my-website-images/captains_cup_pos_picture1.png"]],
+    ["https://github.com/isaiahnoelsalazar/CaptainsCupPOS/", "Captain's Cup POS (Android 7.0+)", "A point-of-sale application for Captain's Cup.", ["https://i.ibb.co/R4T9FrPc/captains-cup-pos-picture1.png"]],
     ["https://isaiahnoelsalazar.github.io/compass-download/", "Compass (Android 4.2+)", "A free compass application for Android 4.2+"],
     ["https://isaiahnoelsalazar.github.io/htmleditor-download/", "HTML Editor (Android 4.2+)", "HTML editor app for Android 4.2+"],
     ["https://isaiahnoelsalazar.github.io/matchupgame-download/", "Match Up Game (Android 7.0+) | School Work", "An assignment match up game application for Android 7.0+"],
@@ -52,6 +52,7 @@ let csharp_programs = [
     ["https://github.com/isaiahnoelsalazar/WebBrowser/", "Web Browser", "A web browser made in C#"]
 ];
 let python_programs = [
+    ["https://github.com/isaiahnoelsalazar/SamplePythonOpenGLCube/", "Sample Python OpenGL - Cube | School Work", "A Python PyGame program that displays a rotating cube using OpenGL", ["https://i.ibb.co/dwtn1yLW/pythonopengl-cube.png"]],
     ["https://github.com/isaiahnoelsalazar/SamplePythonTurtleKeyInput/", "Sample Python Turtle - Key Input | School Work", "A Python Turtle program that accepts input events to manipulate the program functions"],
     ["https://github.com/isaiahnoelsalazar/SamplePythonTurtleYellowDucky/", "Sample Python Turtle - Yellow Ducky | School Work", "A Python Turtle program that displays and colors a pixelated yellow duck"]
 ];
