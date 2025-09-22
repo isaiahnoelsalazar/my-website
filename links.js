@@ -53,6 +53,7 @@ let csharp_programs = [
 ];
 let python_programs = [
     ["https://github.com/isaiahnoelsalazar/SamplePythonOpenGLCube/", "Sample Python OpenGL - Cube | School Work", "A Python PyGame program that displays a rotating cube using OpenGL", ["https://i.ibb.co/dwtn1yLW/pythonopengl-cube.png"]],
+    ["https://github.com/isaiahnoelsalazar/SamplePythonOpenGLCubeWithKeyInput/", "Sample Python OpenGL - Cube with Key Input | School Work", "A Python PyGame program that displays a rotating cube using OpenGL and accepts input events to manipulate the cube's position"],
     ["https://github.com/isaiahnoelsalazar/SamplePythonTurtleKeyInput/", "Sample Python Turtle - Key Input | School Work", "A Python Turtle program that accepts input events to manipulate the program functions"],
     ["https://github.com/isaiahnoelsalazar/SamplePythonTurtleYellowDucky/", "Sample Python Turtle - Yellow Ducky | School Work", "A Python Turtle program that displays and colors a pixelated yellow duck"]
 ];
