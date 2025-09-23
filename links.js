@@ -62,6 +62,7 @@ let unity_games = [
     ["https://isaiahnoelsalazar.github.io/ball/", "Ball (Web)", "Bouncing ball game online"],
     ["https://isaiahnoelsalazar.github.io/dice-download/", "Dice", "Roll the dice"],
     ["https://isaiahnoelsalazar.github.io/dice/", "Dice (Web)", "Roll the dice online"],
+    ["https://isaiahnoelsalazar.github.io/dice-mobile/", "Dice (Web | Mobile)", "Roll the dice online"],
     ["https://isaiahnoelsalazar.github.io/multiple-dice-download/", "Multiple Dice", "Roll multiple dice"],
     ["https://isaiahnoelsalazar.github.io/multiple-dice/", "Multiple Dice (Web)", "Roll multiple dice online"],
     ["https://github.com/isaiahnoelsalazar/SalazarIsaiahNoel_BSIT701P_Lab2/", "SalazarIsaiahNoel_BSIT701P_Lab2 | School Work", "An assignment Unity game of a finished tutorial for an FPS shooter"]

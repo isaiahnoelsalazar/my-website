@@ -59,6 +59,7 @@ const speculationRules = {
                 "https://isaiahnoelsalazar.github.io/ball/",
                 "https://isaiahnoelsalazar.github.io/dice-download/",
                 "https://isaiahnoelsalazar.github.io/dice/",
+                "https://isaiahnoelsalazar.github.io/dice-mobile/",
                 "https://isaiahnoelsalazar.github.io/multiple-dice-download/",
                 "https://isaiahnoelsalazar.github.io/multiple-dice/",
                 "https://github.com/isaiahnoelsalazar/SalazarIsaiahNoel_BSIT701P_Lab2/",
