@@ -53,6 +53,7 @@ const speculationRules = {
                 "https://github.com/isaiahnoelsalazar/WebBrowser/",
                 "https://github.com/isaiahnoelsalazar/SamplePythonOpenGLCube/",
                 "https://github.com/isaiahnoelsalazar/SamplePythonOpenGLCubeWithKeyInput/",
+                "https://github.com/isaiahnoelsalazar/SamplePythonOpenGLDiamondWithKeyInput/",
                 "https://github.com/isaiahnoelsalazar/SamplePythonTurtleKeyInput/",
                 "https://github.com/isaiahnoelsalazar/SamplePythonTurtleYellowDucky/",
                 "https://isaiahnoelsalazar.github.io/ball-download/",
