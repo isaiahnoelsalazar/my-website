@@ -9,7 +9,7 @@ const speculationRules = {
                 "https://isaiahnoelsalazar.github.io/chatbot/",
                 "https://isaiahnoelsalazar.github.io/codenotes/",
                 "https://isaiahnoelsalazar.github.io/doc-to-pdf/",
-                "http://openweb.fwh.is/e-commerce.php/",
+                "http://openweb.fwh.is/e-commerce.php",
                 "https://isaiahnoelsalazar.github.io/electronic-gadget-store/",
                 "https://isaiahnoelsalazar.github.io/live-html/",
                 "http://openweb.fwh.is/",
