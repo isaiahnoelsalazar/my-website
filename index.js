@@ -8,6 +8,7 @@ const speculationRules = {
                 "https://isaiahnoelsalazar.github.io/black/",
                 "https://isaiahnoelsalazar.github.io/chatbot/",
                 "https://isaiahnoelsalazar.github.io/codenotes/",
+                "https://didactic-carrot-ideas.vercel.app/",
                 "https://isaiahnoelsalazar.github.io/doc-to-pdf/",
                 "http://openweb.fwh.is/e-commerce.php",
                 "https://isaiahnoelsalazar.github.io/electronic-gadget-store/",
