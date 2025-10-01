@@ -12,6 +12,7 @@ const speculationRules = {
                 "https://isaiahnoelsalazar.github.io/doc-to-pdf/",
                 "http://openweb.fwh.is/e-commerce.php",
                 "https://isaiahnoelsalazar.github.io/electronic-gadget-store/",
+                "https://flask-web-app-peach.vercel.app/",
                 "https://isaiahnoelsalazar.github.io/live-html/",
                 "http://openweb.fwh.is/",
                 "https://isaiahnoelsalazar.github.io/multiplication-table/",

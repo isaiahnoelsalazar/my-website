@@ -7,6 +7,7 @@ let live_websites = [
     ["https://isaiahnoelsalazar.github.io/doc-to-pdf/", "DOC to PDF", "Convert your DOC files to PDF files."],
     ["http://openweb.fwh.is/e-commerce.php", "E-Commerce Prototype", "A prototype for an e-commerce website."],
     ["https://isaiahnoelsalazar.github.io/electronic-gadget-store/", "Electronic Gadget Store | School Work", "An assignment webpage for a sample electronic gadget store."],
+    ["https://flask-web-app-peach.vercel.app/", "Flask Web App", "A  simple Flask web application."],
     ["https://isaiahnoelsalazar.github.io/live-html/", "Live HTML", "Edit HTML code with live preview."],
     ["http://openweb.fwh.is/", "Live PHP Pages", "A collection of live PHP pages."],
     ["https://isaiahnoelsalazar.github.io/multiplication-table/", "Multiplication Table | School Work", "An assignment webpage for a multiplication table."],
