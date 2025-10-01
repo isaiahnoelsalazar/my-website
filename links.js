@@ -116,7 +116,7 @@ categories.forEach(category => {
                 item[3].forEach(image => {
                 let inside_image_container = document.createElement("div");
                 let project_image = document.createElement("img");
-                project_image.src = image;
+                project_image.setAttribute("data-lazy", image);
                 inside_image_container.appendChild(project_image);
                 image_container.appendChild(inside_image_container);
             });

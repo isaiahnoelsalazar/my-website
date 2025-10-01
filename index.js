@@ -83,6 +83,22 @@ const tabs = document.querySelectorAll(".tab");
 const tab_containers = document.querySelectorAll(".tab-container");
 const contents = document.querySelectorAll(".content");
 
+const targets = document.querySelectorAll("img[data-lazy]");
+const lazyload = target => {
+    const io = new IntersectionObserver((entries, observer) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting){
+                const img = entry.target;
+                const src = img.getAttribute("data-lazy");
+                img.setAttribute("src", src);
+                observer.disconnect();
+            }
+        });
+    });
+    io.observe(target);
+};
+targets.forEach(lazyload);
+
 function mouseEnter(index){
     tabs[index].style.textDecoration = "underline";
 }
@@ -125,6 +141,4 @@ function mouseClick(index){
     });
 }
 
-window.onload = function() {
-    mouseClick(0);
-}
+mouseClick(0);
