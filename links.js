@@ -16,6 +16,7 @@ let live_websites = [
     ["https://isaiahnoelsalazar.github.io/pdf-to-doc/", "PDF to DOC", "Convert your PDF files to DOC files."],
     ["https://isaiahnoelsalazar.github.io/qr-generator/", "QR Generator", "A webpage that generates QR codes."],
     ["https://isaiahnoelsalazar.github.io/rainbow/", "Rainbow", "Just a webpage with continuously alternating colors of a rainbow."],
+    ["https://react-web-app-six.vercel.app/", "React Web App", "A  simple React web application."],
     ["https://isaiahnoelsalazar.github.io/simple-web-calculator/", "Simple Web Calculator", "A simple web-based calculator."],
     ["https://isaiahnoelsalazar.github.io/my-website_old/", "This website's old version", "An old archived version of this website."],
     ["https://isaiahnoelsalazar.github.io/typey/", "Typey", "A simple typing practice website."],
