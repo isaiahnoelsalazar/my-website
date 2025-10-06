@@ -1,6 +1,7 @@
 let live_websites = [
     ["https://isaiahnoelsalazar.github.io/bad-phone-number-inputs/", "Bad Phone Number Inputs", "A webpage that demonstrates bad practices in phone number inputs."],
     ["https://isaiahnoelsalazar.github.io/black/", "Black", "Just a black background."],
+    ["https://blog-next-psi-seven.vercel.app/", "Blog Next", "A simple blog website."],
     ["https://isaiahnoelsalazar.github.io/chatbot/", "Chatbot", "A webpage that features a chatbot."],
     ["https://isaiahnoelsalazar.github.io/codenotes/", "Code Notes", "Notes for beginner coders."],
     ["https://didactic-carrot-ideas.vercel.app/", "DCI", "Didactic Carrot Ideas - A blog website."],

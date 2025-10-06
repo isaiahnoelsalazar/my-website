@@ -6,6 +6,7 @@ const speculationRules = {
             urls: [
                 "https://isaiahnoelsalazar.github.io/bad-phone-number-inputs/",
                 "https://isaiahnoelsalazar.github.io/black/",
+                "https://blog-next-psi-seven.vercel.app/",
                 "https://isaiahnoelsalazar.github.io/chatbot/",
                 "https://isaiahnoelsalazar.github.io/codenotes/",
                 "https://didactic-carrot-ideas.vercel.app/",
