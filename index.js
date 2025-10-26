@@ -55,6 +55,7 @@ const speculationRules = {
                 "https://github.com/isaiahnoelsalazar/ScreenRecorder/",
                 "https://github.com/isaiahnoelsalazar/POS-System-Prototype/",
                 "https://github.com/isaiahnoelsalazar/WebBrowser/",
+                "https://github.com/isaiahnoelsalazar/CubeCubeCubeCube/",
                 "https://github.com/isaiahnoelsalazar/SamplePythonOpenGLCube/",
                 "https://github.com/isaiahnoelsalazar/SamplePythonOpenGLCubeWithKeyInput/",
                 "https://github.com/isaiahnoelsalazar/SamplePythonOpenGLDiamondWithKeyInput/",
