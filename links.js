@@ -51,8 +51,9 @@ let csharp_programs = [
     ["https://github.com/isaiahnoelsalazar/AutoClicker/", "AutoClicker", "Automatically clicks the screen for you."],
     ["https://github.com/isaiahnoelsalazar/AUTOLANDIA-Sales-and-Revenue-Report-Generation-System/", "AUTOLANDIA Sales and Revenue Report Generation System | Capstone Project", "A capstone project of a sales and revenue report generation system for a carwash"],
     ["https://github.com/isaiahnoelsalazar/Base64_Encoder_Decoder/", "Base64 Encoder and Decoder", "Encode and decode your text to and from Base64 format"],
-    ["https://github.com/isaiahnoelsalazar/ScreenRecorder/", "Screen Recorder", "Easily record your screen"],
+    ["https://github.com/isaiahnoelsalazar/MotionDetection_console/", "Motion Detection (Console)", "Detect motion in a video stream"],
     ["https://github.com/isaiahnoelsalazar/POS-System-Prototype/", "POS System Prototype", "A sample point-of-sale system prototype"],
+    ["https://github.com/isaiahnoelsalazar/ScreenRecorder/", "Screen Recorder", "Easily record your screen"],
     ["https://github.com/isaiahnoelsalazar/WebBrowser/", "Web Browser", "A web browser made in C#"]
 ];
 let python_programs = [
