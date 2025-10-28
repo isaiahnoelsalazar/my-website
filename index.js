@@ -52,6 +52,7 @@ const speculationRules = {
                 "https://github.com/isaiahnoelsalazar/AutoClicker/",
                 "https://github.com/isaiahnoelsalazar/AUTOLANDIA-Sales-and-Revenue-Report-Generation-System/",
                 "https://github.com/isaiahnoelsalazar/Base64_Encoder_Decoder/",
+                "https://github.com/isaiahnoelsalazar/ExpensesAndSavings/",
                 "https://github.com/isaiahnoelsalazar/MotionDetection_console/",
                 "https://github.com/isaiahnoelsalazar/POS-System-Prototype/",
                 "https://github.com/isaiahnoelsalazar/ScreenRecorder/",
