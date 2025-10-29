@@ -11,6 +11,7 @@ let live_websites = [
     ["https://flask-web-app-peach.vercel.app/", "Flask Web App", "A  simple Flask web application."],
     ["https://isaiahnoelsalazar.github.io/live-html/", "Live HTML", "Edit HTML code with live preview."],
     ["http://openweb.fwh.is/", "Live PHP Pages", "A collection of live PHP pages."],
+    ["http://saiaweb.fwh.is/", "Live PHP Pages 2", "A backup site for live PHP pages."],
     ["https://isaiahnoelsalazar.github.io/multiplication-table/", "Multiplication Table | School Work", "An assignment webpage for a multiplication table."],
     ["https://isaiahnoelsalazar.github.io/thml/", "My old HTML practice website", "A webpage showcasing my old HTML practice website."],
     ["https://isaiahnoelsalazar.github.io/personal-webpage/", "Personal Webpage | School Work", "An assignment webpage of a sample portfolio website."],
@@ -59,6 +60,7 @@ let csharp_programs = [
 ];
 let python_programs = [
     ["https://github.com/isaiahnoelsalazar/CubeCubeCubeCube/", "Sample Python OpenGL - Cube cube cube cube | School Work", "A Python PyGame program that displays 4 rotating cubes with varying sizes using OpenGL", ["https://i.ibb.co/MDG0Tnvb/Screenshot-2025-10-26-210527.png"]],
+    ["https://github.com/isaiahnoelsalazar/ManimGenerator/", "Manim Generator", "A Python program that generates simple animations using Manim"],
     ["https://github.com/isaiahnoelsalazar/SamplePythonOpenGLCube/", "Sample Python OpenGL - Cube | School Work", "A Python PyGame program that displays a rotating cube using OpenGL", ["https://i.ibb.co/dwtn1yLW/pythonopengl-cube.png"]],
     ["https://github.com/isaiahnoelsalazar/SamplePythonOpenGLCubeWithKeyInput/", "Sample Python OpenGL - Cube with Key Input | School Work", "A Python PyGame program that displays a rotating cube using OpenGL and accepts input events to manipulate the cube's position"],
     ["https://github.com/isaiahnoelsalazar/SamplePythonOpenGLDiamondWithKeyInput/", "Sample Python OpenGL - Diamond with Key Input | School Work", "A Python PyGame program that displays a rotating diamond using OpenGL and accepts input events to manipulate the diamond's position"],
