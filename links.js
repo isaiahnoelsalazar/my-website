@@ -64,6 +64,8 @@ let python_programs = [
     ["https://github.com/isaiahnoelsalazar/SamplePythonOpenGLCube/", "Sample Python OpenGL - Cube | School Work", "A Python PyGame program that displays a rotating cube using OpenGL", ["https://i.ibb.co/dwtn1yLW/pythonopengl-cube.png"]],
     ["https://github.com/isaiahnoelsalazar/SamplePythonOpenGLCubeWithKeyInput/", "Sample Python OpenGL - Cube with Key Input | School Work", "A Python PyGame program that displays a rotating cube using OpenGL and accepts input events to manipulate the cube's position"],
     ["https://github.com/isaiahnoelsalazar/SamplePythonOpenGLDiamondWithKeyInput/", "Sample Python OpenGL - Diamond with Key Input | School Work", "A Python PyGame program that displays a rotating diamond using OpenGL and accepts input events to manipulate the diamond's position"],
+    ["https://github.com/isaiahnoelsalazar/SamplePythonOpenGL_2TexturedObjects/", "Sample Python OpenGL - 2 Textured Objects | School Work", "A Python PyGame program that displays two (2) rotating textured objects using OpenGL"],
+    ["https://github.com/isaiahnoelsalazar/SamplePythonOpenGL_TexturedCube/", "Sample Python OpenGL - Textured Cube | School Work", "A Python PyGame program that displays a rotating textured cube using OpenGL"],
     ["https://github.com/isaiahnoelsalazar/SamplePythonTurtleKeyInput/", "Sample Python Turtle - Key Input | School Work", "A Python Turtle program that accepts input events to manipulate the program functions"],
     ["https://github.com/isaiahnoelsalazar/SamplePythonTurtleYellowDucky/", "Sample Python Turtle - Yellow Ducky | School Work", "A Python Turtle program that displays and colors a pixelated yellow duck"]
 ];
@@ -73,6 +75,7 @@ let unity_games = [
     ["https://isaiahnoelsalazar.github.io/dice-download/", "Dice", "Roll the dice"],
     ["https://isaiahnoelsalazar.github.io/dice/", "Dice (Web)", "Roll the dice online"],
     ["https://isaiahnoelsalazar.github.io/dice-mobile/", "Dice (Web | Mobile)", "Roll the dice online"],
+    ["https://github.com/isaiahnoelsalazar/GameDev_2DRPG/", "GameDev_2DRPG | School Work", "A 2D RPG game made in Unity as part of school work"],
     ["https://isaiahnoelsalazar.github.io/multiple-dice-download/", "Multiple Dice", "Roll multiple dice"],
     ["https://isaiahnoelsalazar.github.io/multiple-dice/", "Multiple Dice (Web)", "Roll multiple dice online"],
     ["https://github.com/isaiahnoelsalazar/SalazarIsaiahNoel_BSIT701P_Lab2/", "SalazarIsaiahNoel_BSIT701P_Lab2 | School Work", "An assignment Unity game of a finished tutorial for an FPS shooter"]
