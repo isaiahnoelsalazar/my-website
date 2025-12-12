@@ -4,6 +4,7 @@ let live_websites = [
     ["https://blog-next-psi-seven.vercel.app/", "Blog Next", "A simple blog website."],
     ["https://isaiahnoelsalazar.github.io/chatbot/", "Chatbot", "A webpage that features a chatbot."],
     ["https://isaiahnoelsalazar.github.io/codenotes/", "Code Notes", "Notes for beginner coders."],
+    ["https://isaiahnoelsalazar.github.io/code-chatbot/", "Code Chatbot", "A webpage that features a coding chatbot."],
     ["https://didactic-carrot-ideas.vercel.app/", "DCI", "Didactic Carrot Ideas - A blog website."],
     ["https://isaiahnoelsalazar.github.io/doc-to-pdf/", "DOC to PDF", "Convert your DOC files to PDF files."],
     ["http://openweb.fwh.is/e-commerce.php", "E-Commerce Prototype", "A prototype for an e-commerce website."],

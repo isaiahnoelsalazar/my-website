@@ -9,6 +9,7 @@ const speculationRules = {
                 "https://blog-next-psi-seven.vercel.app/",
                 "https://isaiahnoelsalazar.github.io/chatbot/",
                 "https://isaiahnoelsalazar.github.io/codenotes/",
+                "https://isaiahnoelsalazar.github.io/code-chatbot/",
                 "https://didactic-carrot-ideas.vercel.app/",
                 "https://isaiahnoelsalazar.github.io/doc-to-pdf/",
                 "http://openweb.fwh.is/e-commerce.php",
