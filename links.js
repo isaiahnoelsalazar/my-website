@@ -24,6 +24,7 @@ let live_websites = [
     ["https://isaiahnoelsalazar.github.io/simple-web-calculator/", "Simple Web Calculator", "A simple web-based calculator."],
     ["https://isaiahnoelsalazar.github.io/site/", "Site", "A collection of different kinds of code."],
     ["https://isaiahnoelsalazar.github.io/my-website_old/", "This website's old version", "An old archived version of this website."],
+    ["https://isaiahnoelsalazar.github.io/test-website/", "Test Website", "A test website"],
     ["https://isaiahnoelsalazar.github.io/typey/", "Typey", "A simple typing practice website."],
     ["https://isaiahnoelsalazar.github.io/webbook/", "WebBook", "A Facebook clone."],
     ["https://isaiahnoelsalazar.github.io/web-otp/", "Web OTP", "Web-based OTP Authenticator."],

@@ -30,6 +30,7 @@ const speculationRules = {
                 "https://isaiahnoelsalazar.github.io/simple-web-calculator/",
                 "https://isaiahnoelsalazar.github.io/site/",
                 "https://isaiahnoelsalazar.github.io/my-website_old/",
+                "https://isaiahnoelsalazar.github.io/test-website/",
                 "https://isaiahnoelsalazar.github.io/typey/",
                 "https://isaiahnoelsalazar.github.io/webbook/",
                 "https://isaiahnoelsalazar.github.io/website-observation-1/",
