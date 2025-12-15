@@ -27,6 +27,7 @@ const speculationRules = {
                 "https://isaiahnoelsalazar.github.io/rainbow/",
                 "https://react-web-app-six.vercel.app/",
                 "https://isaiahnoelsalazar.github.io/simple-web-calculator/",
+                "https://isaiahnoelsalazar.github.io/site/",
                 "https://isaiahnoelsalazar.github.io/my-website_old/",
                 "https://isaiahnoelsalazar.github.io/typey/",
                 "https://isaiahnoelsalazar.github.io/webbook/",
