@@ -42,6 +42,7 @@ let android_applications = [
     ["https://isaiahnoelsalazar.github.io/matchupgame-download/", "Match Up Game (Android 7.0+) | School Work", "An assignment match up game application for Android 7.0+"],
     ["https://github.com/isaiahnoelsalazar/Monay/", "Monay (Android 7.0+) | School Work", "An assignment e-wallet app for Android using the SimpleFunctions dependency"],
     ["https://isaiahnoelsalazar.github.io/note-download/", "Note (Android 4.1+)", "A note app for Android 4.1+"],
+    ["https://isaiahnoelsalazar.github.io/otp-generator-download/", "OTP Generator (Android 7.0+)", "A free OTP generator app for Android 7.0+"],
     ["https://github.com/isaiahnoelsalazar/PacmanAndroid/", "PacmanAndroid (Android 4.4+)", "Simple Pacman game in Android Studio"],
     ["https://isaiahnoelsalazar.github.io/qr-generator-download/", "QR Generator (Android 7.0+)", "A free QR generator app for Android 7.0+"],
     ["https://github.com/isaiahnoelsalazar/saia_ProjectA/", "saia_ProjectA (Android 6.0+)", "An application for Android featuring multiple functions gathered through various experiments"],
