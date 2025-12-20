@@ -21,6 +21,7 @@ const speculationRules = {
                 "http://saiaweb.fwh.is/",
                 "https://isaiahnoelsalazar.github.io/multiplication-table/",
                 "https://isaiahnoelsalazar.github.io/thml/",
+                "https://isaiahnoelsalazar.github.io/old-code/",
                 "https://isaiahnoelsalazar.github.io/web-otp/",
                 "https://isaiahnoelsalazar.github.io/personal-webpage/",
                 "https://isaiahnoelsalazar.github.io/pdf-to-doc/",
