@@ -83,6 +83,7 @@ const speculationRules = {
                 "https://github.com/isaiahnoelsalazar/GameDev_2DRPG/",
                 "https://isaiahnoelsalazar.github.io/multiple-dice-download/",
                 "https://isaiahnoelsalazar.github.io/multiple-dice/",
+                "https://github.com/isaiahnoelsalazar/SalazarIsaiahNoel_BSIT701P_Lab1/",
                 "https://github.com/isaiahnoelsalazar/SalazarIsaiahNoel_BSIT701P_Lab2/",
                 "https://github.com/isaiahnoelsalazar/Almond/",
                 "https://github.com/isaiahnoelsalazar/Bread/",

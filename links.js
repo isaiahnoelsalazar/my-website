@@ -86,6 +86,7 @@ let unity_games = [
     ["https://github.com/isaiahnoelsalazar/GameDev_2DRPG/", "GameDev_2DRPG | School Work", "A 2D RPG game made in Unity as part of school work"],
     ["https://isaiahnoelsalazar.github.io/multiple-dice-download/", "Multiple Dice", "Roll multiple dice"],
     ["https://isaiahnoelsalazar.github.io/multiple-dice/", "Multiple Dice (Web)", "Roll multiple dice online"],
+    ["https://github.com/isaiahnoelsalazar/SalazarIsaiahNoel_BSIT701P_Lab1/", "SalazarIsaiahNoel_BSIT701P_Lab1 | School Work", "An assignment Unity game of a finished tutorial for a racing game"],
     ["https://github.com/isaiahnoelsalazar/SalazarIsaiahNoel_BSIT701P_Lab2/", "SalazarIsaiahNoel_BSIT701P_Lab2 | School Work", "An assignment Unity game of a finished tutorial for an FPS shooter"]
 ];
 let android_dependencies = [
