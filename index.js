@@ -69,7 +69,7 @@ const speculationRules = {
                 "https://github.com/isaiahnoelsalazar/ScreenRecorder/",
                 "https://github.com/isaiahnoelsalazar/TextEncryption/",
                 "https://github.com/isaiahnoelsalazar/WebBrowser/",
-                "https://isaiahnoelsalazar.github.io/IAmStillAlive/resources/build/web/index.html/",
+                "https://isaiahnoelsalazar.github.io/IAmStillAlive/IAmStillAlive/build/web/index.html/",
                 "https://github.com/isaiahnoelsalazar/CubeCubeCubeCube/",
                 "https://github.com/isaiahnoelsalazar/ManimGenerator/",
                 "https://github.com/isaiahnoelsalazar/SamplePythonOpenGLCube/",

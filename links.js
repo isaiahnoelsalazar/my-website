@@ -70,7 +70,7 @@ let csharp_programs = [
     ["https://github.com/isaiahnoelsalazar/WebBrowser/", "Web Browser", "A web browser made in C#"]
 ];
 let python_programs = [
-    ["https://isaiahnoelsalazar.github.io/IAmStillAlive/resources/build/web/index.html/", "IAmStillAlive", "A PyGame program in the web"],
+    ["https://isaiahnoelsalazar.github.io/IAmStillAlive/IAmStillAlive/build/web/index.html/", "IAmStillAlive", "A PyGame program in the web"],
     ["https://github.com/isaiahnoelsalazar/ManimGenerator/", "Manim Generator", "A Python program that generates simple animations using Manim"],
     ["https://github.com/isaiahnoelsalazar/CubeCubeCubeCube/", "Sample Python OpenGL - Cube cube cube cube | School Work", "A Python PyGame program that displays 4 rotating cubes with varying sizes using OpenGL", ["https://i.ibb.co/MDG0Tnvb/Screenshot-2025-10-26-210527.png"]],
     ["https://github.com/isaiahnoelsalazar/SamplePythonOpenGLCube/", "Sample Python OpenGL - Cube | School Work", "A Python PyGame program that displays a rotating cube using OpenGL", ["https://i.ibb.co/dwtn1yLW/pythonopengl-cube.png"]],
