@@ -106,6 +106,9 @@ let android_dependencies = [
 let nuget_packages = [
     ["https://github.com/isaiahnoelsalazar/CSSimpleFunctions/", "CSSimpleFunctions (.NET 6.0+ | .NET Framework 4.5+)", "Provides a collection of utility functions to speed up development for C#."]
 ];
+let python_packages = [
+    ["https://github.com/isaiahnoelsalazar/PythonSimpleFunctions/", "PythonSimpleFunctions (Python 3.x+)", "Provides a collection of utility functions to speed up development for Python."]
+];
 let categories = [
     ["Live Websites", live_websites],
     ["Android Applications", android_applications],
@@ -113,7 +116,8 @@ let categories = [
     ["Python Programs", python_programs],
     ["Unity Games", unity_games],
     ["Android Dependencies", android_dependencies],
-    ["NuGet Packages", nuget_packages]
+    ["NuGet Packages", nuget_packages],
+    ["Python Packages", python_packages]
 ];
 let my_works_div = document.getElementById("my-works-div-1");
 categories.forEach(category => {

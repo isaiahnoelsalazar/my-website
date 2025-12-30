@@ -98,6 +98,7 @@ const speculationRules = {
                 "https://github.com/isaiahnoelsalazar/Cod/",
                 "https://github.com/isaiahnoelsalazar/SimpleFunctions/",
                 "https://github.com/isaiahnoelsalazar/CSSimpleFunctions/",
+                "https://github.com/isaiahnoelsalazar/PythonSimpleFunctions/",
                 "https://www.facebook.com/profile.php?id=100085006483044",
                 "https://x.com/IsaiahNoelSal16"
             ]
