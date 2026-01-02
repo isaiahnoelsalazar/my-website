@@ -1,5 +1,6 @@
 * {
-    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
     color: var(--black);
     font-family: Righteous;
 }
@@ -13,9 +14,13 @@ body {
 }
 #navbar {
     background-color: var(--black);
+    display: -ms-grid;
     display: grid;
+    -ms-grid-columns: 1fr 1fr 1fr;
     grid-template-columns: 1fr 1fr 1fr;
-    justify-content: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
 }
 .tab-container {
     background-color: var(--primary-color);
@@ -26,14 +31,20 @@ body {
     text-align: center;
 }
 .tab {
-    align-items: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
     background-color: var(--black);
     border-radius: 16px;
     color: white;
     cursor: pointer;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
     height: 56px;
-    justify-content: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
 }
 .tab-container:first-child {
     border-radius: 16px 16px 0 0;
@@ -53,8 +64,13 @@ body {
     color: white;
 }
 #main {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    flex-direction: column;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
 }
 .content {
     background-color: var(--primary-color);
@@ -65,11 +81,17 @@ body {
     width: 100%;
 }
 .footer > p {
-    align-items: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
     color: white;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
     height: 56px;
-    justify-content: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
     margin: 0;
 }
 .separator {
@@ -81,6 +103,8 @@ body {
 .spacer {
     background-color: var(--primary-color);
     border-radius: 8px;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
     height: 2px;
     padding: 8px 0;

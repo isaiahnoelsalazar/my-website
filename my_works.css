@@ -1,3 +1,15 @@
+@-webkit-keyframes title-scale {
+    0% {
+        background-color: var(--secondary-color);
+        border-radius: 16px;
+        margin: 0;
+    }
+    100% {
+        background-color: var(--dark-secondary-color);
+        border-radius: 12px;
+        margin: 8px 8px 0 8px;
+    }
+}
 @keyframes title-scale {
     0% {
         background-color: var(--secondary-color);
@@ -8,6 +20,18 @@
         background-color: var(--dark-secondary-color);
         border-radius: 12px;
         margin: 8px 8px 0 8px;
+    }
+}
+@-webkit-keyframes title-unscale {
+    0% {
+        background-color: var(--dark-secondary-color);
+        border-radius: 12px;
+        margin: 8px 8px 0 8px;
+    }
+    100% {
+        background-color: var(--secondary-color);
+        border-radius: 16px;
+        margin: 0;
     }
 }
 @keyframes title-unscale {
@@ -23,8 +47,13 @@
     }
 }
 .my-works {
-    align-items: center;
-    flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
     padding: 16px 0;
 }
 #my-works-div-1 > div > h2 {
@@ -39,29 +68,47 @@
     padding: 8px 0;
 }
 .link-list {
-    align-items: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
     cursor: pointer;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    flex-direction: column;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
     gap: 4px;
     margin: 16px 0 0 0;
     width: 100%;
     -webkit-tap-highlight-color: transparent;
 }
 .link-list > a {
-    align-items: start;
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: start;
     background-color: var(--secondary-color);
     border-radius: 8px;
     color: var(--black);
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    flex-direction: column;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
     font-size: larger;
     text-decoration: none;
+    -webkit-transition: all 0.1s ease-in-out;
+    -o-transition: all 0.1s ease-in-out;
     transition: all 0.1s ease-in-out;
     width: 720px;
 }
 .link-list > a:hover {
-    transform: scale(1.0075);
+    -webkit-transform: scale(1.0075);
+        -ms-transform: scale(1.0075);
+            transform: scale(1.0075);
 }
 .link-list > a:first-child {
     border-radius: 16px 16px 8px 8px;
@@ -90,6 +137,8 @@
     margin: 16px 0;
 }
 .image-container {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
     gap: 16px;
     overflow-x: scroll;
@@ -98,12 +147,21 @@
     width: 100%;
 }
 .image-container > div {
-    align-items: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
     background-color: var(--dark-secondary-color);
     border-radius: 12px;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
     margin: 16px 0 0 0;
     padding: 16px;
     width: auto;
@@ -113,7 +171,8 @@
     width: 150px;
 }
 .visit-link {
-    align-self: flex-end;
+    -ms-flex-item-align: end;
+        align-self: flex-end;
     background-color: var(--tertiary-color);
     border-radius: 8px;
     color: white;
@@ -132,12 +191,21 @@
         width: 100%;
     }
     #my-works-div-1 > div {
-        align-items: center;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+        display: -webkit-box;
+        display: -ms-flexbox;
         display: flex;
-        flex-direction: column;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
     }
     #my-works-div-1 > div > h2 {
-        justify-content: center;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
         width: 100%;
     }
     .link-list > a {
