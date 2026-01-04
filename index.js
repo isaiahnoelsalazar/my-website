@@ -4,6 +4,7 @@ const speculationRules = {
     prefetch: [
         {
             urls: [
+                "https://ass-olive.vercel.app/",
                 "https://isaiahnoelsalazar.github.io/bad-phone-number-inputs/",
                 "https://isaiahnoelsalazar.github.io/black/",
                 "https://blog-next-psi-seven.vercel.app/",
