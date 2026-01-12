@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://isaiahnoelsalazar.github.io/my-website/sitemap.xml
