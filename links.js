@@ -107,7 +107,7 @@ let android_dependencies = [
 let nuget_packages = [
     ["https://github.com/isaiahnoelsalazar/CSharpSimpleFunctions/", "CSharpSimpleFunctions (.NET Framework 4.7.2+)", "An old archived NuGet package that provides a collection of utility functions to speed up development for .NET Framework 4.7.2+."],
     ["https://github.com/isaiahnoelsalazar/CSSimpleFunctions/", "CSSimpleFunctions (.NET 6.0+ | .NET Framework 4.5+)", "An old archived NuGet package that provides a collection of utility functions to speed up development for C#."],
-    ["https://github.com/isaiahnoelsalazar/NETSimpleFunctions/", "NETSimpleFunctions (.NET 6.0+)", "Provides a collection of utility functions to speed up development for .NET 6.0+."]
+    ["https://github.com/isaiahnoelsalazar/NETSimpleFunctions/", "NETSimpleFunctions (.NET 6.0+ | .NET Framework 4.7.2+)", "Provides a collection of utility functions to speed up development for C#."]
 ];
 let python_packages = [
     ["https://github.com/isaiahnoelsalazar/PythonSimpleFunctions/", "PythonSimpleFunctions (Python 3.x+)", "Provides a collection of utility functions to speed up development for Python."]
