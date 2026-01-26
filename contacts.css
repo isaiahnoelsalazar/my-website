@@ -84,6 +84,10 @@
 #contacts-div-1 > a > p {
     margin: 0;
 }
+#contacts-div-1 > a > img {
+    height: 24px;
+    width: 24px;
+}
 @media (max-width: 600px) {
     #contacts-div-1 {
         width: calc(100% - 32px);
