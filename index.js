@@ -23,6 +23,7 @@ const speculationRules = {
                 "https://isaiahnoelsalazar.github.io/multiplication-table/",
                 "https://isaiahnoelsalazar.github.io/thml/",
                 "https://isaiahnoelsalazar.github.io/old-code/",
+                "https://isaiahnoelsalazar.github.io/number-memory-game/", 
                 "https://isaiahnoelsalazar.github.io/web-otp/",
                 "https://isaiahnoelsalazar.github.io/personal-webpage/",
                 "https://isaiahnoelsalazar.github.io/pdf-to-doc/",

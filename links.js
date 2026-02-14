@@ -18,6 +18,7 @@ let live_websites = [
     ["https://isaiahnoelsalazar.github.io/multiplication-table/", "Multiplication Table | School Work", "An assignment webpage for a multiplication table."],
     ["https://isaiahnoelsalazar.github.io/thml/", "My old HTML practice website", "A webpage showcasing my old HTML practice website."],
     ["https://isaiahnoelsalazar.github.io/old-code/", "My old code collection", "A webpage showcasing my old code collection."],
+    ["https://isaiahnoelsalazar.github.io/number-memory-game/", "Number Memory Game", "Number memory game."],
     ["https://isaiahnoelsalazar.github.io/personal-webpage/", "Personal Webpage | School Work", "An assignment webpage of a sample portfolio website."],
     ["https://isaiahnoelsalazar.github.io/pdf-to-doc/", "PDF to DOC", "Convert your PDF files to DOC files."],
     ["https://isaiahnoelsalazar.github.io/qr-generator/", "QR Generator", "A webpage that generates QR codes."],
