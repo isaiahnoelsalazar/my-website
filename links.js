@@ -38,6 +38,7 @@ let live_websites = [
     ["https://isaiahnoelsalazar.github.io/women-with-baskets/", "Women with Baskets | School Work", "An assignment webpage showcasing the famous artwork of Anita Magsaysay-Ho, \"Women with Baskets\"."]
 ];
 let android_applications = [
+    ["https://github.com/isaiahnoelsalazar/Applock/", "Applock (Android 7.0+)", "Applock application for Android 7.0+"],
     ["https://isaiahnoelsalazar.github.io/basabasa-download/", "Basabasa: Free Manga Reader App (Android 7.1+)", "A free manga reader app for Android using the MangaDex API"],
     ["https://github.com/isaiahnoelsalazar/Basalt/", "Basalt (Android 7.1+)", "Simple manga reader using MangaDex API"],
     ["https://isaiahnoelsalazar.github.io/billcalculator-download/", "Bill Calculator (Android 4.1+)", "A bill/tip calculator application for Android 4.1+"],
